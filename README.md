@@ -134,15 +134,6 @@ Right aligned columns
 | ext    | extension to be used for dest files. |
 
 
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-
-
-
 ## Plugins
 
 The killer feature of `markdown-it` is very effective support of
